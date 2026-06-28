@@ -48,7 +48,7 @@ def user_input():
         if i.isdigit(): num += i
         else: string += i
     return num,string
-print("example: 10 kg")
+print("example: 10kg")
 
 while True:
     try:
